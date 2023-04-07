@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full stack
 - 💞️ Joined Sourcefuse as fullStack trainee...
 - 📫 How to reach me just reach me on my insta id (sahil.mudaliar)
-- 
 
 <!---
 SahilMudaliar/SahilMudaliar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
