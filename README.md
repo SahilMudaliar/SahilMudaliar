@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SahilMudaliar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data analytics
-- 💞️ working at Sourcefuse as Software Engg
+- 💞️ working at Sourcefuse as Data Engineer
 - 📫 How to reach me just reach me on my insta id (sahil.mudaliar)
 
 <!---
